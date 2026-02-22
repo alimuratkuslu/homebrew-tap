@@ -1,6 +1,6 @@
 cask "dispatch" do
-  version "2.0.1"
-  sha256 "5f40aa470708a3c00d62c9bec6fae0b8bc5cf85fabdf475dc6a01c63f3c97017"
+  version "2.1.0"
+  sha256 "9d5547f599c5e9eebfb4adc47d1b2ac0c96779a2c21d8228086108107024197c"
 
   url "https://github.com/alimuratkuslu/dispatch/releases/download/v#{version}/Dispatch.zip"
   name "Dispatch"
